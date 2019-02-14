@@ -175,3 +175,15 @@ text-align:center;}
 
 </body>
 </html>
+------------------------------------------------
+<ul>
+<li>item1</li>
+<li style="background-color:yellow">item2</li>
+<ol type="1">
+<li>sub1</li>
+<li>sub2</li>
+<li>sub3</li>
+</ol>
+<li>item4</li>
+<li>item5</li>
+</ul>
