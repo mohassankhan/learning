@@ -150,3 +150,28 @@ display:block;
 padding:205px;
 text-align:center;}
 --------------------------------------------------
+<html>
+<head>
+<title>CSS</title>
+<style type="text/css">@import url("altcss.css")
+
+</style>
+</head>
+<body>
+<h1 id=redtxt >presidency university</h1>
+<p class=bluetxt>department of cse</p>
+<br/>
+<br/>
+<br/>
+<a class=redtxt href="a1.html" target=_blank>hyper link example</a>
+<br/>
+<a class=bluetxt href="a1.html" target=_blank>hyper link example</a>
+<br/>
+<a class=largesize href="a1.html" target=_blank align=right color=black>hyper link example</a>
+<br/>
+<a class=act href="a1.html" target=_blank>hyper link example</a>
+<br/>
+
+
+</body>
+</html>
