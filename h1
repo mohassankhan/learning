@@ -1,0 +1,152 @@
+<html>
+<head><title>a1</title>
+<style type="text/css">
+h1{color:red;
+
+}</style>
+ul em {
+color:#abcdef;
+}
+</head>
+
+
+<frameset rows="10%,35%,20%,*">
+<frame src="mar.html"/>
+<frame src="r2.html"/>
+<frame src="index.jpeg" bgcolor="orange" />
+<frame src="tab.html"/>
+</frameset>
+
+<marquee style="background-color:#abcdef"><h1>Presidency university</h1></marquee>
+<ul>
+<li>item1</li>
+<li style="background-color:yellow">item2</li>
+<ol type="1">
+<li>sub1</li>
+<li>sub2</li>
+<li>sub3</li>
+</ol>
+</ul>
+<ul>
+<li><item4></li>
+<li><item5></li>
+</ul>
+
+<p><a href src="index.jpeg" style="float:right;"></p>
+
+<caption align="top">table name</caption>
+<table border=4 color="red">
+<tr>
+<th bgcolor="green">abc</th>
+<th bgcolor="green">abc2</th>
+</tr>
+<tr>
+<td>r1</td>
+<td>r1c2</td></tr>
+</table>
+<br>
+<a href="index.jpeg"  >click here</a>
+--------------------------------------------
+
+<html>
+<head>
+ <meta charset="utf-8" />
+<h1 class=b>head         dfhg        wsetr</h1>
+<fameset cols=10%,30%,*>
+<frame src="c1.html">
+<frame src="ali.jpeg">
+<frame src="c1.html">
+</framset>
+<style type="text/css">@import url("c1.css")
+</style>
+<body>
+<p class=s>text shadow</p>
+<p style="background-color:yellow;text-shadow:2pt 3pt 4pt green;">
+with yellow bg</p>
+<p class=dotted>sdgjklvn lskdn ldskvg sldkgn sldknvlksfb flbn;fjg wSELFKJN WE'RLGN 'LDFN DSGFKJNFR RLGKNLKR WERGFRLGR 'RJGN
+LDFGKR</P>
+<p class=one> hello</p>
+<p class=m> margin </p>
+<div class="d">comp science <span>home       contact joy      about jmary </span> ldskvjn sldgn gkln</div>
+<div class="d1"> css class 2</div>
+<p type=1><ol>
+<li>one</li>
+<li>one.one</li>
+<li>two</li>
+<li>three</li>
+</ol>
+</p>
+<a href="h1.html">clck here</a>
+
+<a href="h1.html">clck here</a>
+
+<a href="h1.html" class="highlight">clck here hover</a>
+
+
+<div>
+ksedjfgh</div>
+<span class=t style='italic;'><a href="google.com">home</a> &nbsp;&nbsp;&nbsp;contact &nbsp;&nbsp;&nbsp;about</span>
+&nbsp;</body>
+</head>
+</html>
+-----------------------------
+
+p.dotted {border-style: dotted;
+margin:25px 10px 5px 150px;}
+
+p.one{border-style:solid;
+border-color:red;
+border-width:5px}
+
+p.s{text-shadow:2pt 3pt 4pt green;}
+
+.b{border-style:groove ridge double;
+ border-width:4pt 5px 10px;}
+ .m{margin:25px 10px 5px 15;}
+
+div.d{width:300px;
+margin:auto;border :5px dashed blue;
+height:auto;
+background-color:auto}
+
+div.d1{
+padding:25px;
+border:5px solid green;
+margin:25px;
+width:300px;
+height:00px}
+
+li{
+display:inline;
+}
+span{
+width:190px;
+height:100px;
+padding:50px;
+border:30px inset purple;
+display:inline-block;
+background-color:beige;
+}
+
+span.t{
+width:200px;
+font-family:cursive;
+
+padding:100px;
+height:50px;
+margin:150px;
+border:10px solid green;
+background-image:url("p.jpeg");
+}
+
+a.highlight:hover{color:red;
+}
+
+div:hover,p{background-image:url("index.jpeg");
+
+color:white;
+background-repeat:no-repeat;
+display:block;
+padding:205px;
+text-align:center;}
+--------------------------------------------------
